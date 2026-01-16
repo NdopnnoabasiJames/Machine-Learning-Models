@@ -7,8 +7,6 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-from tkinter.tix import AUTO
-
 
 BOT_NAME = "news_crawler"
 
